@@ -1,0 +1,14 @@
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/bin/Debug/netcoreapp2.1/orgSemasi.deps.json
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/bin/Debug/netcoreapp2.1/orgSemasi.runtimeconfig.json
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/bin/Debug/netcoreapp2.1/orgSemasi.runtimeconfig.dev.json
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/bin/Debug/netcoreapp2.1/orgSemasi.dll
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/bin/Debug/netcoreapp2.1/orgSemasi.pdb
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/obj/Debug/netcoreapp2.1/orgSemasi.csprojAssemblyReference.cache
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/obj/Debug/netcoreapp2.1/orgSemasi.csproj.CoreCompileInputs.cache
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/obj/Debug/netcoreapp2.1/orgSemasi.RazorAssemblyInfo.cache
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/obj/Debug/netcoreapp2.1/orgSemasi.RazorAssemblyInfo.cs
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/obj/Debug/netcoreapp2.1/orgSemasi.AssemblyInfoInputs.cache
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/obj/Debug/netcoreapp2.1/orgSemasi.AssemblyInfo.cs
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/obj/Debug/netcoreapp2.1/orgSemasi.RazorTargetAssemblyInfo.cache
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/obj/Debug/netcoreapp2.1/orgSemasi.dll
+/Users/utkukapoglu/APM/orgSemasi/orgSemasi/obj/Debug/netcoreapp2.1/orgSemasi.pdb
